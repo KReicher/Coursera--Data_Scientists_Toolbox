@@ -25,6 +25,8 @@ lets do some list
 
 - list item two
 
+- list item three
+
 - this list is so great
 
 ```{r cars}
